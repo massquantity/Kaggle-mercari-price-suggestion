@@ -2,7 +2,7 @@
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/massquantity/Kaggle-mercari-price-suggestion/master/images/1.png"
-     height="500px", width="100px">
+     height="450px">
 </div>
 
 <br><br>
@@ -10,3 +10,8 @@
 <br>
 
 ![](https://raw.githubusercontent.com/massquantity/Kaggle-mercari-price-suggestion/master/images/flow%20chart.png)
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/massquantity/Kaggle-mercari-price-suggestion/master/images/flow%20chart.png"
+     height="600px">
+</div>
