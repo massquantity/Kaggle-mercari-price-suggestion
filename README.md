@@ -2,7 +2,7 @@
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/massquantity/Kaggle-mercari-price-suggestion/master/images/1.png"
-     height="450px">
+     height="500px">
 </div>
 
 <br><br>
@@ -13,5 +13,5 @@
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/massquantity/Kaggle-mercari-price-suggestion/master/images/flow%20chart.png"
-     height="600px">
+     height="500px">
 </div>
