@@ -2,11 +2,11 @@
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/massquantity/Kaggle-mercari-price-suggestion/master/images/1.png"
-     height="600px">
+     height="500px">
 </div>
 
 <br><br>
-### Flow Chart
+## Flow Chart
 <br>
 
 ![](https://raw.githubusercontent.com/massquantity/Kaggle-mercari-price-suggestion/master/images/flow%20chart.png)
