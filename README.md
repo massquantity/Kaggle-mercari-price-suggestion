@@ -2,7 +2,7 @@
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/massquantity/Kaggle-mercari-price-suggestion/master/images/1.png"
-     height="500px">
+     height="500px", width="100px">
 </div>
 
 <br><br>
