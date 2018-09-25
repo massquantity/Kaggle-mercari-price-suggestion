@@ -9,4 +9,4 @@
 ## Flow Chart
 <br>
 
-![](https://raw.githubusercontent.com/massquantity/Kaggle-mercari-price-suggestion/master/images/flow%20chart.png)
+![](https://raw.githubusercontent.com/massquantity/Kaggle-mercari-price-suggestion/master/flow%20chart%201.png)
