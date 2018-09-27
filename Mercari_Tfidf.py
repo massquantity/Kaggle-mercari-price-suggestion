@@ -632,7 +632,7 @@ model_1.fit(train, y)
 print("model_1 fit_time: ", time.time() - start_time)
 
 start_time = time.time()
-model_2 = SDCARegressor(random_state=42, max_iter=30, alpha=2e-6, tol=0.0001)
+model_2 = Ridge(alpha=2, fit_intercept=False, solver='saga')
 model_2.fit(train, y)
 print("model_2 fit_time: ", time.time() - start_time)
 
