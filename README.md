@@ -11,4 +11,3 @@
 
 ![](https://raw.githubusercontent.com/massquantity/Kaggle-mercari-price-suggestion/master/images/flow%20chart%201.png)
 
-asd
